@@ -30,3 +30,6 @@ Bu proje, İstanbul için iftar vaktine kalan süreyi gösteren basit bir geri s
 - Kullanılan API: [Aladhan API](https://api.aladhan.com/v1/timingsByCity)
 - Endpoint: `https://api.aladhan.com/v1/timingsByCity/{tarih}?city=Istanbul&country=Turkey`
 - İftar vakti, `data.timings.Maghrib` alanından alınır.
+
+## Canlı Site
+Sayacı şu adresten ziyaret edebilirsiniz: [https://kullaniciadi.github.io/iftar-sayaci/](https://kullaniciadi.github.io/iftar-sayaci/)
