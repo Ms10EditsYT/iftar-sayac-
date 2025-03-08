@@ -32,4 +32,4 @@ Bu proje, İstanbul için iftar vaktine kalan süreyi gösteren basit bir geri s
 - İftar vakti, `data.timings.Maghrib` alanından alınır.
 
 ## Canlı Site
-Sayacı şu adresten ziyaret edebilirsiniz: [https://kullaniciadi.github.io/iftar-sayaci/](https://kullaniciadi.github.io/iftar-sayaci/)
+Sayacı şu adresten ziyaret edebilirsiniz: [https://Ms10EditsYT.github.io/iftar-sayaci/](https://Ms10EditsYT.github.io/iftar-sayaci/)
